@@ -81,7 +81,7 @@ The CNN consistently achieved >80% accuracy.
 ## ✏️ How to run
 1. Clone the repo:
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/ChanduDadi/Pose-Estimation.git
     cd repo-name
     ```
 2. Install dependencies:
@@ -91,5 +91,3 @@ The CNN consistently achieved >80% accuracy.
 3. Run the notebook / scripts to train models and visualize results.
 
 ---
-
-> *This project was submitted as part of the Master's coursework at the Faculty of Computer Science and Business Informatics.*
